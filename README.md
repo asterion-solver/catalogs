@@ -15,6 +15,7 @@ index files it reads (`catalogs-v1`, …), checks the files and decompresses the
 |-------------|-----------------------------------------------------------|-------------------|
 | `tycho2`    | Tycho-2: 2.5 million stars, to magnitude 12               | 0.7° (42′) and up |
 | `gaia-500`  | Gaia DR3, the 500 brightest stars of each square degree: 21 million stars | 0.15° (9′) and up |
+| `gaia-1000` | Gaia DR3, 1000 stars per square degree: 41 million stars  | 0.15° (9′) and up, sometimes 0.12° (7′) |
 | `gaia-2000` | Gaia DR3, 2000 stars per square degree: 83 million stars  | 0.1° (6′) and up  |
 
 See the [README of Asterion](https://github.com/asterion-solver/asterion#which-catalog) to choose one, and
